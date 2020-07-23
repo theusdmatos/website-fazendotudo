@@ -116,8 +116,8 @@ theme = "LoveIt"
           paginate = 6
       # Social config in home page
       [languages.pt-br.params.social]
-        Instagram = "xxxx"
-        Facebook = "xxxx"
+        Instagram = ""
+        Facebook = ""
         Youtubechannel = "UCYGTYbqaCIbWXyOa1eKH7Ng"
         
       #  Email = "fazendotudosite@gmail.com"
@@ -229,8 +229,8 @@ theme = "LoveIt"
           paginate = 6
       # Social config in home page
       [languages.en.params.social]
-        Instagram = "xxxx"
-        Facebook = "xxxx"
+        Instagram = ""
+        Facebook = ""
         Youtubechannel = "UCYGTYbqaCIbWXyOa1eKH7Ng"
         
     #    Email = "xxxx@xxxx.com"
