@@ -17,7 +17,7 @@ The Federal Revenue opened on Friday (22) the consultation to the first batch of
 
 To find out if the declaration has been released, the taxpayer must access the [Receita Federal](https://servicos.receita.fazenda.gov.br/Servicos/ConsRest/Atual.app/paginas/index.asp") website or call Receitafone, at number 146.
 
-![Receita Federal](/images/consulta-restituições-IRPF.png "Receita Federal page")
+![Receita Federal](/images/consulta-restituiçcoes-IRPF.png "Receita Federal page")
 
 
 ## 2. Using the application

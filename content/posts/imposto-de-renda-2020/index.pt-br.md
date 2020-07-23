@@ -17,7 +17,7 @@ lightgallery: true
 
 Para saber se teve a declaração liberada, o contribuinte deverá acessar o [site Receita Federal](https://servicos.receita.fazenda.gov.br/Servicos/ConsRest/Atual.app/paginas/index.asp") ou ligar para o Receitafone, no número 146.
 
-![Receita Federal](/images/consulta-restituições-IRPF.png "Página Receita Federal")
+![Receita Federal](/images/consulta-restituicoes-IRPF.png "Página Receita Federal")
 
 
 ## 2. Usando o aplicativo
