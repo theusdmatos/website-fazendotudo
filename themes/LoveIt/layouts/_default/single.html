@@ -2,6 +2,7 @@
 
 {{- define "content" -}}
     {{- $params := .Scratch.Get "params" -}}
+    {{ partials "google/adsense" . }}
     <div class="page single special">
         {{- /* Title */ -}}
         <h1 class="single-title animated pulse faster">
