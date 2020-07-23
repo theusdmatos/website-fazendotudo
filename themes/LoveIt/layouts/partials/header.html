@@ -1,7 +1,16 @@
 {{- /* Desktop header */ -}}
 <header class="desktop" id="header-desktop">
-    {{ partials "google/analytics" . }}
-    {{ partials "google/adsense" . }}
+  
+    <!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-162802131-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-162802131-1');
+</script>
+
     <div class="header-wrapper">
         <div class="header-title">
             <a href="{{ .Site.Home.RelPermalink }}" title="{{ .Site.Title }}">
