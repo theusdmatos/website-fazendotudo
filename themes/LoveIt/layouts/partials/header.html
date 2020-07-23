@@ -1,10 +1,11 @@
 {{- /* Desktop header */ -}}
 <header class="desktop" id="header-desktop">
+    {{ partials "google/analytics" . }}
+    {{ partials "google/adsense" . }}
     <div class="header-wrapper">
         <div class="header-title">
             <a href="{{ .Site.Home.RelPermalink }}" title="{{ .Site.Title }}">
-                {{ partials "google/analytics" . }}
-                {{ partials "google/adsense" . }}
+               
                 {{- with .Site.Params.header.title -}}
                     {{- with .logo -}}
                         {{- dict "Src" . "Class" "logo" | partial "plugin/image.html" -}}
