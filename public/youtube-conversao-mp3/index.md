@@ -1,32 +1,32 @@
-# How to convert and download a YouTube video into music
+# Como converter e baixar um video do Youtube em música
 
 
-YouTube is a video sharing platform.
+YouTube é uma plataforma de compartilhamento de vídeos. 
        
-## 1. Accessing YouTube
-Access the official page of [YouTube](https://www.youtube.com/).
-![Downloading iTunes](/images/youtube.png "Site to download iTunes")
+## 1. Acessando o YouTube
+Acesse a página oficial do [YouTube](https://www.youtube.com/).
+![YouTube](/images/youtube.png "Página do YouTube")
 
-## 2. Search a video 
-Search for the video you want to convert and copy its link
-![Downloading iTunes](/images/video-youtube.png "Site to download iTunes")
+## 2. Procure um vídeo/música
+Pesquise o vídeo que deseja converter e copie o seu link.
+![YouTube](/images/video-youtube.png "Página do YouTube")
 
-## 3. Accessing page 
-Access the official page of [Ytmp3](https://ytmp3.cc/) to perform the conversion.
-![Downloading iTunes](/images/ytmp3.png "Site to download iTunes")
+## 3. Acessando o site para conversão
+Acesse a página [Ytmp3](https://ytmp3.cc/) para realizar a conversão.
+![Ytmp3](/images/ytmp3.png "Página do Ytmp3")
 
-## Copy and paste the link of video
-Paste the link of the video you copied and click "Convert".
-![Downloading iTunes](/images/ytmp3-convert.png "Site to download iTunes")
+## Copie e cole o link do vídeo
+Cole o link do video que você copiou e clique em "Convert".
+![Copie/Cole](/images/ytmp3-convert.png "Página do Ytmp3")
 
-## 5. Click in "Download"
-![Downloading iTunes](/images/ytmp3-download.png "Site to download iTunes")
+## 5. Clique em "Download"
+![Baixando](/images/ytmp3-download.png "Página do Ytmp3")
 
-## 6. Save file
-Select the "Save file" option and click "Ok".
-![Downloading iTunes](/images/ytmp3-download-finish.png "Site to download iTunes")
+## 6. Salve o arquivo
+Selecione a opção "Salvar arquivo" e clique em "Ok".          
+![Salvando](/images/ytmp3-download-finish.png "Salvando em .mp3")
 
-## 7. Finish!
-![Downloading iTunes](/images/mp3.png "Site to download iTunes")
+## 7. Pronto!!
+![Pronto](/images/mp3.png "Reprodução da música")
 
 

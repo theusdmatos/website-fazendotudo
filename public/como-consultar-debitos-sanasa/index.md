@@ -1,17 +1,18 @@
-# How to check your water bill debts (Sanasa)
+# Como consultar débitos da sua conta de água (Sanasa)
 
-The Society for Water Supply and Sanitation - [Sanasa Campinas](http://www.sanasa.com.br/inicio/default.aspx) was created on August 28, 1974. Sanasa was one of the first sanitation companies in Brazil to add fluoride to the water treatment.
-       
-## 1. Downloading iTunes
-. Access the official page of [Sanasa](http://app.sanasa.com.br/vagencic4/app?hptAppId=FR900P&hptExec=Y) to check debts.
-![Sanasa](/images/sanasa.png "Sanasa website")
 
-## 2. Enter the consumer code, you can find it in your account.
-![Sanasa](/images/conta-sanasa.png "Sanasa account")
+A Sociedade de Abastecimento de Água e Saneamento - [Sanasa Campinas](http://www.sanasa.com.br/inicio/default.aspx) foi criada em 28 de agosto de 1.974. A Sanasa foi uma das primeiras empresas de saneamento no Brasil a adicionar flúor no tratamento da água. 
+        
+## 1. Acesse a página da Sanasa
+ Acesse a página ofical da  [Sanasa](http://app.sanasa.com.br/vagencic4/app?hptAppId=FR900P&hptExec=Y) para consultar débitos.
+![Sanasa](/images/sanasa.png "Site da Sanasa")
 
-## 3. Now with the consumer code in hand, type it in the field as shown in the image and click "Consult".
-![Sanasa](/images/codigo-sanasa.png "Inserting code")
+## 2. Digite o código de consumidor, você pode encontrá-lo na sua conta.
+![Sanasa](/images/conta-sanasa.png "Conta da Sanasa ")
 
-## 4. Ready! Now you can check your debts.
-![Sanasa](/images/sanasa-debitos.png "Checking your debts")
+## 3. Agora com o código do consumidor em mãos, digite ele no campo como mostrado na imagem e clique em "Consultar".
+![Sanasa](/images/codigo-sanasa.png "Inserindo o código")
+
+## 4. Pronto! Agora você pode consultar seus débitos.
+![Sanasa](/images/sanasa-debitos.png "Consultando os débitos")
 

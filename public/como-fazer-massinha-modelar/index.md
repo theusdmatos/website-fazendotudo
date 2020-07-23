@@ -1,34 +1,35 @@
-# How to make modeling clay at home
+# Como fazer massinha de modelar em casa
 
 
-We all know that children love to play clay, now imagine they can make their own? And even more the one where all the ingredients are edible !!! That's right, if your child takes the mouth, there will be no problem. You will spend little and I bet that all the ingredients you will have in your home.
+Todos nós sabemos que as crianças amam brincar de massinha, agora imagina elas poderem fazer a própria? E ainda mais essa a qual todos os ingredientes são comestíveis!!! Isso mesmo, se o seu filho levar a boca não terá problema algum. Você vai gastar pouco e aposto que todos os ingredientes você vai ter em sua casa.
 
-## 1. Ingredients
+## 1. Ingredientes
 
-- [ ] 1 cup of salt
-- [ ] 4 cups of flour
-- [ ] 1 cup and a half of water
+- [ ] 1 xícara de sal
+- [ ] 4 xícaras de farinha de trigo
+- [ ] 1 xícara e meia de água
 - [ ] 3 colheres de sopa de óleo
-- [ ] Food coloring of choice (optional)
+- [ ] Corante alimentício da cor de escolha (opcional)
 
 
-## Preparation mode
+## Mode de preparo
 
-{{< admonition note "1º step" >}}
+{{< admonition note "1º passo" >}}
 
-In a large pot, mix the salt and flour and then add the oil and water. Mix the ingredients until they form a homogeneous mass. Note: if the dough becomes too soft add flour and in case the dough becomes brittle add more water.
+Em um pote grande misture o sal e a farinha e em seguida adicione o óleo e a água. Misture os ingredientes até formar uma massa homogênea. Obs: se caso a massa ficar muito mole adicione farinha e em caso de a massa ficar quebradiça adicione mais água. 
 
 {{< /admonition >}}
 
-{{< admonition note "2º step" >}}
+{{< admonition note "2º passo" >}}
 
-Finally, if you choose, add the food color of your choice. And if you don't have it at home, no problem, you can add grape powdered juices or berries. And don't forget to check if your child is allergic to any of these. 
-
+Por fim se optar adicione o corante alimentício da cor de escolha.  E se não tiver em casa, não tem problema, você pode adicionar sucos em pó de uva ou frutas vermelhas. E não se esqueça de verificar se o seu filho não possui alergia a nenhum destes. 
+    
 {{< /admonition >}}
 
 {{< admonition tip >}}
 
-A tip is to keep the clay in a tightly closed container or in a sealed plastic bag. Because if it has constant contact with the air the clay will lose its consistency.
+Uma dica é guardar a massinha em uma vasilha bem fechada ou em saco plástico vedado. Pois se tiver contato constante com o ar a massinha perderá a consistência.
+        
 
 {{< /admonition >}}
 
