@@ -481,7 +481,7 @@ theme = "LoveIt"
       # Valine comment config (https://github.com/xCss/Valine)
       # Valine 评论系统设置 (https://github.com/xCss/Valine)
       [params.page.comment.valine]
-        enable = true
+        enable = false
         appId = "QGzwQXOqs5JOhN4RGPOkR2mR-MdYXbMMI"
         appKey = "WBmoGyJtbqUswvfLh6L8iEBr"
         placeholder = ""
@@ -508,7 +508,7 @@ theme = "LoveIt"
       # Facebook comment config (https://developers.facebook.com/docs/plugins/comments)
       # Facebook 评论系统设置 (https://developers.facebook.com/docs/plugins/comments)
       [params.page.comment.facebook]
-        enable = false
+        enable = true
         width = "100%"
         numPosts = 10
         appId = ""
@@ -601,7 +601,7 @@ theme = "LoveIt"
   # Analytics config
 
   [params.analytics]
-    enable = false
+    enable = true
     # Google Analytics
     [params.analytics.google]
       id = "UA-162802131-1"
