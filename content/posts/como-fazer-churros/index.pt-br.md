@@ -12,7 +12,7 @@ lightgallery: true
 
 ## 1. Ingredientes
 
-- [ ] 1 xícara de água<
+- [ ] 1 xícara de água
 - [ ] 1 colher de chá de extrato de baunilha
 - [ ] ¼ colher de chá de sal
 - [ ] 4 colheres de sopa de manteiga
